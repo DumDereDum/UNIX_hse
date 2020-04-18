@@ -1,6 +1,6 @@
 #!/bin/bash
 ping -c 1 ya.ru &> /dev/null; c=$?
-joke=`curl -s https://api.chucknorris.io/jokes/rando | jq -r ".value"`
+joke=`curl -s https://api.chucknorris.io/jokes/random | jq -r ".value"`
 linecount=`cat jokes.txt | wc -l`
 
 if [[ $c == 0 ]] && [[ $joke != 'null' ]]; then
