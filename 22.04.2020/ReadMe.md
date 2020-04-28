@@ -1,3 +1,4 @@
+## Задание
 ```
 Поднимите самбу(samba). Поднимите любой веб-сервер(nginx, apache, lighttpd, cherokee). 
 пошарьте папку со страницами(или переназначьте веб сервер на пошаренную папку). 
@@ -59,4 +60,4 @@ fi
 
 Вроде все заработало.
 
-
+![alt text](https://raw.githubusercontent.com/DumDereDum/UNIX_hse/master/22.04.2020/src_img/work.png) 
