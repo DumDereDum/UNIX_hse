@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Wed, 27 May 2020 18:10:05 +0300
+Source: mysldeb
+Binary: mysldeb
+Architecture: source amd64
+Version: 0.1-1
+Distribution: unstable
+Urgency: medium
+Maintainer: bat <bat@unknown>
+Changed-By: bat <bat@unknown>
+Description:
+ mysldeb    - <insert up to 60 chars description>
+Changes:
+ mysldeb (0.1-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ fc49b572b0201504b8d1ebcc75140cc3863e61e8 798 mysldeb_0.1-1.dsc
+ 139fdc0126762fe280e27d6fc01f6b510a3b7811 632504 mysldeb_0.1.orig.tar.xz
+ 26298d1eb674faff9d11453d92a533e900f64c54 7892 mysldeb_0.1-1.debian.tar.xz
+ 8987dccd899c6550b5e2b2be2022de937287fac5 2788 mysldeb-dbgsym_0.1-1_amd64.ddeb
+ ce685de280c92394bb5fb3083c5ad6f37a063241 5361 mysldeb_0.1-1_amd64.buildinfo
+ 1f37ad0d9fa761ce813905c1d56d25b37b27e75c 7260 mysldeb_0.1-1_amd64.deb
+Checksums-Sha256:
+ dfd069086d59480936c1786d4b1d015bcfa2f3da8389ceedc3fbce2481008c31 798 mysldeb_0.1-1.dsc
+ bfd657e8189acc69a290c92d7b4f9723d0500b00e901476e1908db4c69a1b592 632504 mysldeb_0.1.orig.tar.xz
+ 8112ed1f2d9a7ca02d063cd358274435bdb2ef4d887d7e8781eb59d25dd1adb6 7892 mysldeb_0.1-1.debian.tar.xz
+ 1bcce15d1c1e7451753f80bde3e9a7bb4c50692dc23f878fd4fed0647b9dacfc 2788 mysldeb-dbgsym_0.1-1_amd64.ddeb
+ e50a6570147ed574f09deeab898d1a85eb80dc716b92c1998d9d0c1dd093363d 5361 mysldeb_0.1-1_amd64.buildinfo
+ 44491d6026f5d3cc0f5261bfa93374deded2639d966ed3a723feef797b71fa8f 7260 mysldeb_0.1-1_amd64.deb
+Files:
+ 5623e54331b2893f15c34d226ab29a8a 798 unknown optional mysldeb_0.1-1.dsc
+ 9316afa50d3c32917ffb342f5a3556e6 632504 unknown optional mysldeb_0.1.orig.tar.xz
+ e895d19028ce255f63cba00aee2228d0 7892 unknown optional mysldeb_0.1-1.debian.tar.xz
+ 47952fa095c39cbff71e51864fbf364d 2788 debug optional mysldeb-dbgsym_0.1-1_amd64.ddeb
+ 1d3c2e5d498371b997fcae9216c3364a 5361 unknown optional mysldeb_0.1-1_amd64.buildinfo
+ c7f18097f174071107be1603afc5d39e 7260 unknown optional mysldeb_0.1-1_amd64.deb

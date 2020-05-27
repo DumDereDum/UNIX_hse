@@ -1,0 +1,13 @@
+Package: mysldeb-dbgsym
+Package-Type: ddeb
+Source: mysldeb
+Version: 0.1-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: bat <bat@unknown>
+Installed-Size: 17
+Depends: mysldeb (= 0.1-1)
+Section: debug
+Priority: optional
+Description: debug symbols for mysldeb
+Build-Ids: f10e2fcfee1f68e2057d26e1b707113a0f0cf460
