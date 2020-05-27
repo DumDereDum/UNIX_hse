@@ -30,3 +30,4 @@ sudo dpkg -i mysldeb_0.1-1_amd64.deb
 sl
 ```
 Чучух-Чучух...
+![train](https://raw.githubusercontent.com/DumDereDum/UNIX_hse/master/27.05.2020/train.png)
